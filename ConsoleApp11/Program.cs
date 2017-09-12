@@ -7,6 +7,7 @@ namespace ConsoleApp11
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("I'm the king of the WORLD!");
         }
     }
 }
